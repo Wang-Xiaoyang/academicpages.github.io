@@ -11,21 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electronic Science and Technology, University of Electronic Science and Techonology of China (UESTC), 2013
+* B.S. in English Literature, UESTC, 2013
+* Ph.D in Signal and Information Processing, UESTC, 2018
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Nov 2018 - Present: Research Associate (Postdoc)
+  * University of Bristol
+  * NG-CDI project: Next Generation Converged Digital Infrastructure
+  * Supervisor: Professor Robert Piechocki
+  
+* Summer 2018: Visiting Scholar
+  * Brown University
+  * Supervisor: Professor Benjamin Kimia
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2017 - May 2018: Visiting Ph.D student
+  * University of Bristol
+  * Trajectory prediction in shared spaces
+  * Supervisor: Dr. Dima Damen
+  
+* Jul 2012: Summer Intern
+  * Institute of Optics and Elecronics, Chinese academy of science
+  * Supervisor: Dr. Zhiyong Xu
   
 Skills
 ======
