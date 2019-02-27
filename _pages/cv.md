@@ -37,12 +37,13 @@ Experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming and simulation
+  * Python
+  * Matlab
+  * C++
+* Academic writing
+  * Latex
+  * MS office
 
 Publications
 ======
@@ -56,12 +57,8 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-[comment]: <> (Teaching)
-[comment]: <> (======)
-[comment]: <>  (<ul>{% for post in site.teaching %})
-[comment]: <>   ({% include archive-single-cv.html %})
-[comment]: <>  ({% endfor %}</ul>)
-  
+<!---
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Served as a reviewer for several 
+-->
