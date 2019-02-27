@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xiaoyang Wang"
   avatar           : "profile.jpeg"
-  bio              : "Research associate at University of Bristol, NG-CDI project"
+  bio              : "Research associate(postdoc) at the University of Bristol, NG-CDI project"
   location         : "Bristol, UK"
   employer         :
   googlescholar    : "https://scholar.google.co.uk/citations?user=Z7I0kvYAAAAJ&hl=en&oi=sra"
@@ -100,7 +100,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/xiaoyang-wang-the-north-pole/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
