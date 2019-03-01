@@ -12,6 +12,6 @@ Received her PhD from the University of Electronic Science and Technology of Chi
 
 ### News
 
-11/2018: Moved to the Communications, Systems and Networks (CSN) Lab at the University of Bristol!
+11/2018: Moved to the Communication Systems and Networks (CSN) Lab at the University of Bristol!
 
 11/2018: Graduated from the University of Electronic Science and Technology of China (UESTC)!
