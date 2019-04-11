@@ -84,7 +84,7 @@ for row, item in publications.iterrows():
     md += "\nvenue: '" + html_escape(item.venue) + "'"
     
     if len(str(item.paper_url)) > 5:
-        md += "\npaperurl: '" + item.paper_url + "'"
+        md += "\n\n<a href='" + item.paper_url + "'>[paper]</a>\n"
     
     md += "\ncitation: '" + html_escape(item.citation) + "'"
     
@@ -93,7 +93,7 @@ for row, item in publications.iterrows():
     ## Markdown description for individual page
     
     if len(str(item.code_url)) > 5:
-        md += "\n\n<a href='" + item.code_url + "'>Download code here</a>\n" 
+        md += "\n\n<a href='" + item.code_url + "'>[code]</a>\n" 
         
     if len(str(item.excerpt)) > 5:
         md += "\n" + html_escape(item.excerpt) + "\n"
