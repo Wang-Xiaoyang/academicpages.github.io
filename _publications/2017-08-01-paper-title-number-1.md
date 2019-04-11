@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/2017-08-01-paper-title-number-1
 date: 2017-08-01
 venue: 'IEEE Transactions on Geoscience and Remote Sensing'
-
-<a href='http://Wang-Xiaoyang.github.io/files/SMSL_paper.pdf       '>[paper]</a>
+paperurl: 
+<a href='http://Wang-Xiaoyang.github.io/files/SMSL_paper.pdf       ''>[paper]</a>
 
 citation: 'Wang, X., Peng, Z., Kong, D. and He, Y., 2017. Infrared Dim and Small Target Detection Based on Stable Multisubspace Learning in Heterogeneous Scene. IEEE Transactions on Geoscience and Remote Sensing, 55(10), pp.5481-5493.'
 ---
