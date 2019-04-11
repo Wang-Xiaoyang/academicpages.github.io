@@ -8,6 +8,4 @@ paperurl: 'http://Wang-Xiaoyang.github.io/files/SMSL_paper.pdf       '
 citation: 'Wang, X., Peng, Z., Kong, D. and He, Y., 2017. Infrared Dim and Small Target Detection Based on Stable Multisubspace Learning in Heterogeneous Scene. IEEE Transactions on Geoscience and Remote Sensing, 55(10), pp.5481-5493.'
 ---
 
-<a href='http://Wang-Xiaoyang.github.io/files/SMSL_Wang.zip'>Download code here</a>
-
-Recommended citation: Wang, X., Peng, Z., Kong, D. and He, Y., 2017. Infrared Dim and Small Target Detection Based on Stable Multisubspace Learning in Heterogeneous Scene. IEEE Transactions on Geoscience and Remote Sensing, 55(10), pp.5481-5493.
+<a href='http://Wang-Xiaoyang.github.io/files/SMSL_Wang.zip'>[code]</a>

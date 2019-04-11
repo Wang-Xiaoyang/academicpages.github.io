@@ -8,6 +8,4 @@ paperurl: 'http://Wang-Xiaoyang.github.io/files/PLCM_paper.pdf       '
 citation: 'Xiaoyang, W., Zhenming, P., Ping, Z. and Yeming, M., 2015. Infrared small dim target detection based on local contrast combined with region saliency. High Power Laser and Particle Beams, 27(9), p.091005.'
 ---
 
-<a href='http://Wang-Xiaoyang.github.io/files/PLCM_Wang.zip       '>Download code here</a>
-
-Recommended citation: Xiaoyang, W., Zhenming, P., Ping, Z. and Yeming, M., 2015. Infrared small dim target detection based on local contrast combined with region saliency. High Power Laser and Particle Beams, 27(9), p.091005.
+<a href='http://Wang-Xiaoyang.github.io/files/PLCM_Wang.zip       '>[code]</a>
