@@ -8,6 +8,4 @@ paperurl: 'http://Wang-Xiaoyang.github.io/files/NVMD_paper.pdf       '
 citation: 'Wang, X., Peng, Z., Zhang, P. and He, Y., 2017. Infrared Small Target Detection via Nonnegativity-Constrained Variational Mode Decomposition. IEEE Geoscience and Remote Sensing Letters, 14(10), pp.1700-1704.'
 ---
 
-<a href='http://Wang-Xiaoyang.github.io/files/NVMD_Wang.zip'>Download code here</a>
-
-Recommended citation: Wang, X., Peng, Z., Zhang, P. and He, Y., 2017. Infrared Small Target Detection via Nonnegativity-Constrained Variational Mode Decomposition. IEEE Geoscience and Remote Sensing Letters, 14(10), pp.1700-1704.
+<a href='http://Wang-Xiaoyang.github.io/files/NVMD_Wang.zip'>[code]</a>
