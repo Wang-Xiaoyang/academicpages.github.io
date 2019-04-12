@@ -29,11 +29,10 @@ Experience
 * May 2017 - May 2018: Visiting Ph.D student
   * University of Bristol
   * Trajectory prediction in shared spaces
-  * Supervisor: Dr. Dima Damen
+  * Supervisor: <a href = "https://dimadamen.github.io/">Dr. Dima Damen</a>
   
 * Jul 2012: Summer Intern
   * Institute of Optics and Elecronics, Chinese academy of science
-  * Supervisor: Dr. Zhiyong Xu
   
 Skills
 ======
