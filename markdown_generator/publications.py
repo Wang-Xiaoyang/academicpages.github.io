@@ -86,7 +86,8 @@ for row, item in publications.iterrows():
     if len(str(item.paper_url)) > 5:
     	md += "\npaperurl: '" + item.paper_url + "'"
     
-    md += "\ncitation: '" + html_escape(item.citation) + "'"
+    if len(str(item.citation)) > 5:
+        md += "\ncitation: '" + html_escape(item.citation) + "'"
     
     md += "\n---"
     
