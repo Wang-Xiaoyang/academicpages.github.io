@@ -101,7 +101,7 @@ for row, item in publications.iterrows():
     
     # Abstract
     if len(str(item.abstract)) > 5:
-    	md += "\n'" + html_escape(item.abstract) + "'\n"    
+    	md += "\n" + html_escape(item.abstract) + "\n"    
         
     if len(str(item.excerpt)) > 5:
         md += "\n" + html_escape(item.excerpt) + "\n"
