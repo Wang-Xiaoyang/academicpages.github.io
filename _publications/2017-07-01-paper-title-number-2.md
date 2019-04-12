@@ -9,5 +9,3 @@ citation: 'Wang, X., Peng, Z., Kong, D., Zhang, P. and He, Y., 2017. Infrared di
 ---
 
 <a href='http://Wang-Xiaoyang.github.io/files/TV-PCP_Wang.zip'>[code]</a>
-
-Recommended citation: Wang, X., Peng, Z., Kong, D., Zhang, P. and He, Y., 2017. Infrared dim target detection based on total variation regularization and principal component pursuit. Image and Vision Computing, 63, pp.1-9.
