@@ -89,12 +89,19 @@ for row, item in publications.iterrows():
     if len(str(item.citation)) > 5:
         md += "\ncitation: '" + html_escape(item.citation) + "'"
     
+    if len(str(item.code_url)) > 5:
+    	md += "\ncodeurl: '" + item.code_url + "'"
+    
     md += "\n---"
     
     ## Markdown description for individual page
     
     if len(str(item.code_url)) > 5:
         md += "\n\n<a href='" + item.code_url + "'>[code]</a>\n" 
+    
+    # Abstract
+    if len(str(item.abstract)) > 5:
+    	md += "\n'" + html_escape(item.abstract) + "'\n"    
         
     if len(str(item.excerpt)) > 5:
         md += "\n" + html_escape(item.excerpt) + "\n"
