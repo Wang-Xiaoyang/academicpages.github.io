@@ -49,11 +49,11 @@
         {% endcomment %}
     
     {% if post.paperurl and post.codeurl%}
-      <p <a href="{{ post.paperurl }}"><u>[pdf]</u></a> <a href=" {{ post.codeurl }} "><u>[code]</u></a> </p>
+      <p> <a href="{{ post.paperurl }}"><u>[pdf]</u></a> <a href=" {{ post.codeurl }} "><u>[code]</u></a> </p>
     {% elsif post.codeurl %}
-      <p <a href=" {{ post.codeurl }} "><u>[code]</u></a> </p>
+      <p> <a href=" {{ post.codeurl }} "><u>[code]</u></a> </p>
     {% elsif post.paperurl %}
-      <p <a href=" {{ post.codeurl }} "><u>[pdf]</u></a> </p>
+      <p> <a href=" {{ post.codeurl }} "><u>[pdf]</u></a> </p>
     {% endif %}
 
   </article>
