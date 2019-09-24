@@ -12,7 +12,7 @@ Received her PhD <a href = "http://Wang-Xiaoyang.github.io/files/thesis_xiaoyang
 
 ### News
 
-07/2018: Our paper "Location Anomalies Detection for Connected and Autonomous Vehicles" accepted for presentation at IEEE CAVS 2019. [<a href = "https://arxiv.org/abs/1907.00811">arXiv</a>]
+07/2018: Our paper "Location Anomalies Detection for Connected and Autonomous Vehicles" accepted for presentation at IEEE CAVS 2019. [<a href = "https://arxiv.org/abs/1907.00811">arXiv</a>] [<a href = "hhttp://Wang-Xiaoyang.github.io/files/CAVS2019 - Xiaoyang.pdf ">slides</a>]
 
 11/2018: Moved to the Communication Systems and Networks (CSN) Lab at the University of Bristol!
 
