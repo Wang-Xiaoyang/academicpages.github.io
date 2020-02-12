@@ -11,6 +11,8 @@ redirect_from:
 ## NG-CDI: Next Generation Converged Digital Infrastructure
 <a href='http://www.ng-cdi.org/'>Project homepage</a>
 
+## *Practice project*: Reinforcement Learning from 0
+I will be uploading my code of basic reinforcement learning algorithms to this <a href='https://github.com/Wang-Xiaoyang/RL-Implementations'>repo</a>.
 
 ## Trajectory Prediction in Shared Spaces by Social force models
 
