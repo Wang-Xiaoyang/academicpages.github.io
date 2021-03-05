@@ -1,7 +1,7 @@
 ---
 title: "Self-play Learning Strategies for Resource Assignment in Open-RAN Networks"
 collection: publications
-permalink: /publication/2021-03-05-Paper-title-number-6
+permalink: /publication/2021-03-05-paper-title-number-6
 date: 2021-03-05
 venue: 'arXiv preprint arXiv:2103.02649'
 paperurl: 'https://arxiv.org/abs/2103.02649.pdf'
