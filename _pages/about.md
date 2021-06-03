@@ -11,7 +11,7 @@ redirect_from:
 Received her PhD <a href = "http://Wang-Xiaoyang.github.io/files/thesis_xiaoyang.pdf ">(thesis in Chinese)</a> from the University of Electronic Science and Technology of China (UESTC) in 2018, Xiaoyang is currently a postdoctoral researcher at the University of Bristol, UK. During her PhD, Xiaoyang worked on target detection and tracking, especially in infrared small target detection. She also worked on trajectory prediction in shared spaces. Xiaoyang's main effort is currently on unsupervised learning and reinforcement learning for the next generation network.
 
 ### News
-04/2021: Presented "Future Open RAN - Intelligence and Challenges" in the annual SCEEM Research Conference. [<a href = "https://youtu.be/uRPFlP-fEr4">YouTube</a>]
+04/2021: Presented "Future Open RAN - Intelligence and Challenges" at the annual SCEEM Research Conference. [<a href = "https://youtu.be/uRPFlP-fEr4">YouTube</a>]
 
 03/2021: Our paper "Self-play Learning Strategies for Resource Assignment in Open-RAN Networks" is now on arXiv. [<a href = "https://arxiv.org/abs/2103.02649">arXiv</a>]
 
